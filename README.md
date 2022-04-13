@@ -1,6 +1,7 @@
 ## Olá! Eu sou Daniel Menezes
 #### Criei este perfil para publicar meus projetos, minhas ideias e meus estudos.
 #### Futuro desenvolvedor back-end 😁
+📫 Linkedin: https://www.linkedin.com/in/danielmenezesj/
 
 <div>
   <a href="https://github.com/danzinj">
