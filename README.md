@@ -19,10 +19,7 @@
   <img align="center" alt="Java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Js" height="30" width="40" src="https://www.svgrepo.com/show/349419/javascript.svg" />
   <img align="center" alt="NodeJs" height="30" width="40" src="https://www.svgrepo.com/show/452075/node-js.svg" />
-  <img align="center" alt="MySql" height="30" width="40" src="https://www.svgrepo.com/show/303251/mysql-logo.svg />
-    
-
- </div>
+  </div>
   
   ##
 
