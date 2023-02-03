@@ -1,6 +1,6 @@
 ## Olá! Eu sou Daniel Menezes
 ## Desenvolvedor Back-End
-#### Atualmente cursando Ciência da Computação no 2º Semestre , possuo experiência em Projetos acadêmicos e Projetos empresariais utilizando Nodejs + Express, faço parte da comunidade He4rt Developers que tem o intuito de ajudar quem está iniciando na área de tecnologia. Focado em aprender e dá meu melhor para realizar minhas metas na área de tecnologia! Conhecimentos na linguagem JavaScript e suas principais estruturas de dados, em Frameworks como Express, conhecimentos em ORM com Node.JS, API REST FULL com Sequelize, Testes Unitários, Testes de integração, Websockets e Banco de dados Relacional .
+* Atualmente cursando Ciência da Computação no 2º Semestre , possuo experiência em Projetos acadêmicos e Projetos empresariais utilizando Nodejs + Express, faço parte da comunidade He4rt Developers que tem o intuito de ajudar quem está iniciando na área de tecnologia. Focado em aprender e dá meu melhor para realizar minhas metas na área de tecnologia! Conhecimentos na linguagem JavaScript e suas principais estruturas de dados, em Frameworks como Express, conhecimentos em ORM com Node.JS, API REST FULL com Sequelize, Testes Unitários, Testes de integração, Websockets e Banco de dados Relacional .
 
 📫 Linkedin: https://www.linkedin.com/in/danielmenezesj/
 
