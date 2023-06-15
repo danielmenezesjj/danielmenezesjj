@@ -1,32 +1,61 @@
-## Olá! Eu sou Daniel Menezes
-## Desenvolvedor Back-End
-* Atualmente cursando Ciência da Computação, possuo experiência em Projetos acadêmicos e Projetos empresariais utilizando Nodejs + Express, faço parte da comunidade He4rt Developers que tem o intuito de ajudar quem está iniciando na área de tecnologia. Focado em aprender e dá meu melhor para realizar minhas metas na área de tecnologia! Conhecimentos na linguagem JavaScript e suas principais estruturas de dados, em Frameworks como Express, conhecimentos em ORM com Node.JS, API REST FULL com Sequelize, Testes Unitários, Testes de integração, Websockets e Banco de dados Relacional .
+<h1 align="center"><b>Hi , Daniel Menezes </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-📫 Linkedin: https://www.linkedin.com/in/danielmenezesj/
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-📩 E-mail: danielmenezesdev@gmail.com
+- :office: Software Developer at [LABOVET](https://labovet.com.br/)
+- :sparkles: A passionate self-taught back-end developer
+- :fire: Currently learning and loving NodeJs development by self
+- :muscle: I’m available for freelancing.
+- 💬 https://www.linkedin.com/in/danielmenezesj/ 
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <div>
-  <a href="https://github.com/danielmenezesjj">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=danielmenezesjj&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmenezesjj&layout=compact&langs_count=7&theme=onedark"/>
-  
+<p align="center">
+  <a href="https://github.com/danielmenezesjj"  style="text-decoration:none;">
+    <img align="center"
+        height="150em"
+        src="https://github-readme-stats.vercel.app/api?username=danielmenezesjj&show_icons=true&include_all_commits=false&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/danielmenezesjj"  style="text-decoration:none;">
+  <img align="center"
+        height="150em"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=danielmenezesjj&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact" />
+  </a>
+</p>
 </div>
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Js" height="30" width="40" src="https://www.svgrepo.com/show/349419/javascript.svg" />
-  <img align="center" alt="NodeJs" height="30" width="40" src="https://www.svgrepo.com/show/452075/node-js.svg" />
-  </div>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+### :clipboard: Languages
+<div align="center">
   
-  ##
+![](https://img.shields.io/badge/Node.js-43853D??style=flat&logo=node.js&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/-Java-0D1117?style=flat&logo=openjdk&logoColor=FFA518&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/JavaScript-F7DF1E??style=flat&logo=javascript&logoColor=black)&nbsp;
 
-  <div> 
-  <a href="https://www.youtube.com/channel/UCrncfbh7Fjkp8B6N0Ub5Weg/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/daniel_meenezes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/danielmenezesj/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-  </div>
+</div>
+  
+### :floppy_disk: Databases
+<div align="center">
+  
+![](https://img.shields.io/badge/-MySQL-0D1117?style=flat&logo=mysql&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb&logoColor=4EA94B&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927??style=flat&logo=microsoft-sql-server&logoColor=white)&nbsp;
 
+</div>
+  
+### :heavy_check_mark: Others
+<div align="center">
+  
+
+
+![](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-Markdown-0D1117?style=flat&logo=markdown&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-Postman-0D1117?&logo=Postman&labelColor=0D1117)&nbsp;
+
+
+</div>
+  
