@@ -1,61 +1,39 @@
-<h1 align="center"><b>Hi , Daniel Menezes </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4600&pause=2500&color=FFC43D&width=435&lines=Hi+there%2C+This+is+Gurkan+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
- **About me**
+![Gurkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmenezesjj&show_icons=true&theme=gruvbox&rank_icon=github)
 
-- :office: Software Developer at [LABOVET](https://labovet.com.br/)
-- :sparkles: A passionate self-taught back-end developer
-- :fire: Currently learning and loving NodeJs development by self
-- :muscle: I’m available for freelancing.
-- 💬 https://www.linkedin.com/in/danielmenezesj/ 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<div>
+<!--![danielmenezesjj's github stats](https://github-readme-stats.vercel.app/api?username=danielmenezesjj&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)-->
+<!--
 <p align="center">
-  <a href="https://github.com/danielmenezesjj"  style="text-decoration:none;">
-    <img align="center"
-        height="150em"
-        src="https://github-readme-stats.vercel.app/api?username=danielmenezesjj&show_icons=true&include_all_commits=false&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/danielmenezesjj"  style="text-decoration:none;">
-  <img align="center"
-        height="150em"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=danielmenezesjj&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact" />
-  </a>
+  
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&theme=gruvbox)
+  ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&theme=gruvbox)
+
+
+## 📘 My top open source projects  -->
+
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+<!-- <p align="center">
+ <a href="https://github.com/danielmenezesjj/socketio-simple-chat"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=danielmenezesjj&repo=socketio-simple-chat&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="socketio-simple-chat"></a><a href="https://github.com/danielmenezesjj/post-sharing-be"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=danielmenezesjj&repo=post-sharing-be&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="post-sharing-be"></a><a href="https://github.com/danielmenezesjj/mp3-player-be"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=danielmenezesjj&repo=mp3-player-be&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="mp3-player-be"></a>
+  
+     -->
+  
+<!--  <a href="URL"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=danielmenezesjj&repo=REPO&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt=""></a>  -->
+  
+  
+  
+<p align="left">
+  <a href="https://github.com/danielmenezesjj?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-FFC43D?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
-</div>
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-### :clipboard: Languages
+## Technology Stack
+
+<!-- https://github.com/tandpfun/skill-icons -->
 <div align="center">
-  
-![](https://img.shields.io/badge/Node.js-43853D??style=flat&logo=node.js&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/-Java-0D1117?style=flat&logo=openjdk&logoColor=FFA518&labelColor=0D1117)&nbsp;
-![](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python&labelColor=0D1117)&nbsp;
-![](https://img.shields.io/badge/JavaScript-F7DF1E??style=flat&logo=javascript&logoColor=black)&nbsp;
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,react,mysql,mongodb,postgres,docker)](https://skillicons.dev)
 
 </div>
-  
-### :floppy_disk: Databases
-<div align="center">
-  
-![](https://img.shields.io/badge/-MySQL-0D1117?style=flat&logo=mysql&labelColor=0D1117)&nbsp;
-![](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb&logoColor=4EA94B&labelColor=0D1117)&nbsp;
-![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927??style=flat&logo=microsoft-sql-server&logoColor=white)&nbsp;
-
-</div>
-  
-### :heavy_check_mark: Others
-<div align="center">
-  
-
-
-![](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git&labelColor=0D1117)&nbsp;
-![](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github&labelColor=0D1117)&nbsp;
-![](https://img.shields.io/badge/-Markdown-0D1117?style=flat&logo=markdown&labelColor=0D1117)&nbsp;
-![](https://img.shields.io/badge/-Postman-0D1117?&logo=Postman&labelColor=0D1117)&nbsp;
-
-
-</div>
-  
