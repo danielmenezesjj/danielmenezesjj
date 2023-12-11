@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4600&pause=2500&color=FFC43D&width=435&lines=Hi+there%2C+This+is+Gurkan+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-![Gurkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmenezesjj&show_icons=true&theme=gruvbox&rank_icon=github)
+![danielmenezesjj GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmenezesjj&show_icons=true&theme=gruvbox&rank_icon=github)
 
 
 <!--![danielmenezesjj's github stats](https://github-readme-stats.vercel.app/api?username=danielmenezesjj&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)-->
